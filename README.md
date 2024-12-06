@@ -1,1 +1,1 @@
-quelque ligne
+"LOCAL"
